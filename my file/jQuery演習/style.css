@@ -1,0 +1,84 @@
+.left{
+    margin-top: 10px;
+    border-top: 5px solid blue;
+    border-right: 5px solid blue;
+    border-bottom: 5px solid blue;
+    float: left;
+    width: 70%;
+    height: 1425.77px;
+}
+.right{
+    margin-top: 10px;
+    border-top: 5px solid red;
+    border-left: 5px solid red;
+    border-bottom: 5px solid red;
+    float: left;
+    width: 29%;
+    height: 1425.77px;
+}
+.logo{
+    width: 100%;
+}
+.logo img{
+    width: 450px;
+    height: 85px;
+}
+.menu{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+}
+.menu li{
+    display: inline-block;
+    color: white;
+    line-height: 40px;
+    padding-right: 40px;
+}
+h1{
+    margin-top: 0;
+    border-left: solid 3px black;
+    border-bottom: solid 2px black;
+}
+.maincontainor{
+    width: 100%;
+}
+.maincontainor img{
+    width: 100%;
+    height: auto;
+}
+.gray_box{
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.gray_box img{
+    width: 170px;
+    margin: 20px 10px -10px 10px;
+}
+.gray_box .gray_box_pic2{
+    display: inline-block;
+}
+h3{
+    border-bottom: dotted 2px black;
+}
+.submenu{
+    list-style: none;
+}
+.submenu2{
+    list-style: none;
+}
+.submenu3{
+    list-style: none;
+}
+footer{
+    clear: left ;
+    width: 100% ; 
+    height: 40px ; 
+    bottom: 0px ;
+    left: 0px ;
+    color: white ; 
+    background-color: black ; 
+    text-align: center ; 
+    line-height: 40px ;
+}
